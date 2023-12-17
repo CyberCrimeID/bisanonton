@@ -22,7 +22,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@consumet/extensions": "github:consumet/consumet.ts",
+    "@consumet/extensions": "^1.5.4",
     "@fontsource/sora": "^5.0.14",
     "@lottiefiles/react-lottie-player": "^3.5.3",
     "@nasa-gcn/remix-seo": "^2.0.0",
